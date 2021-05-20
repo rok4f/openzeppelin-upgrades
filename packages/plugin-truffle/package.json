@@ -1,8 +1,8 @@
 {
-  "name": "@openzeppelin/truffle-upgrades",
+  "name": "@nunja/truffle-upgrades",
   "version": "1.7.0",
   "description": "",
-  "repository": "https://github.com/OpenZeppelin/openzeppelin-upgrades/tree/master/packages/plugin-truffle",
+  "repository": "https://github.com/rok4f/openzeppelin-upgrades/tree/master/packages/plugin-truffle",
   "license": "MIT",
   "main": "dist/index.js",
   "files": [
